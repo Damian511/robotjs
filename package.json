@@ -1,0 +1,14 @@
+{
+  "name": "robot_js",
+  "version": "1.0.0",
+  "description": "rpa for as400",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run serve"
+  },
+  "author": "angelog",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
